@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-aaditya-singh-met16-itbhu-ac/precache-manifest.c4eb1ef4181293e84936ef5736f03624.js"
+  "/Crio-Launch-Feb-2020-aaditya-singh-met16-itbhu-ac/precache-manifest.f8f99a31af157c90310012e0bff53b65.js"
 );
 
 self.addEventListener('message', (event) => {
